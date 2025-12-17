@@ -78,7 +78,8 @@ A project for analyzing bank performance metrics  like total Application , Good 
 Interactive dashboad to analyze pizza sales data and generate insights into: Sales performance Customer purchasing behavior Popular and underperforming pizza items Trends based on time, category, and size.
 
 🔗 *Repo:* [Link](https://github.com/satyashubhamjha/Pizza-Sales-Dashboard-)<br>
-⭐ Skills Used: Power BI, Data Modeling, DAX, Visualization  
+⭐ Skills Used: Power BI, Data Modeling, DAX, Visualization 
+
 ---
 
 ## 📄 Resume  
