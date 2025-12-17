@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Prabhakar Kumar Shahi </h1>
+<h1 align="center">Hi 👋, I'm Shubham Kumar Jha </h1>
 <h3 align="center">Data Analyst | Python | Power BI | SQL | Web Scraping | ML Beginner</h3>
 
 ---
 
 ## 🚀 About Me
-I’m a passionate *Data Analyst* skilled in transforming raw data into meaningful insights.  
-I enjoy working on projects related to:
+I am a passionate Data Analyst who finds immense satisfaction in working with data—transforming raw information into powerful insights that drive informed decision-making. I thrive on analytical projects where data tells a meaningful story and creates real-world impact:
 
 - 📊 Data Cleaning & Analysis  
 - 🔍 Web Scraping & Automation  
@@ -16,9 +15,6 @@ I enjoy working on projects related to:
 My goal is to grow as a data professional and solve business problems using data-driven approaches.
 
 ---
-
-## Portfolio 
-Take a look :  [Visit](https://happy-queen-a83.notion.site/Hey-I-m-Prabhakar-Kumar-Shahi-2c76fb690c8d800daaf4de73cf70367a)
 
 ---
 
@@ -37,17 +33,17 @@ Take a look :  [Visit](https://happy-queen-a83.notion.site/Hey-I-m-Prabhakar-Kum
 ## 📂 Featured Projects
 
 ### 📱 1. Flipkart Mobile Phones Web Scraper  
-A Python-based scraper that extracts real customer-visible data (price, ratings, specifications) for the top 10 mobile brands.
+A Python-based scraper that extracts real customer-visible data (price, ratings, specifications) for the top 4 mobile brands.
 
-🔗 *Repo:* [Link](https://github.com/Prabhakar620126/Flipkart_mobile_data_scrap)<br>
+🔗 *Repo:* [Link](https://github.com/satyashubhamjha/Flipkart-Smartphone-Web-Scrapping)<br>
 ⭐ Skills Used: Python, BeautifulSoup, Requests, Pandas  
 
 ---
 
 ### 📱 2.  Airbnb Hotel/Room Data Web Scraper 
-A Python-based scraper that extracts real customer-visible data for the Hotel in 10 cities.
+A Python-based scraper that extracts real customer-visible data for the Hotel in top citie.
 
-🔗 *Repo:* [Link](https://github.com/Prabhakar620126/Airbnb_data_scrap)<br>
+🔗 *Repo:* [Link](https://github.com/satyashubhamjha/Airbnb-website-Web-Scraping-)<br>
 ⭐ Skills Used: Python, BeautifulSoup, Requests, Pandas  
 
 ---
