@@ -55,6 +55,7 @@ Interactive dashboard showcasing social media insights like engagement, reach & 
 
 🔗 *Repo:* [Link](https://github.com/satyashubhamjha/Instagram-and-Facebook-Power-Bi-Dashboard)<br>
 ⭐ Skills Used: Power BI, Data Modeling, DAX, Visualization  
+
 ---
 
 ### 📊 4. Car Sales Dashboard – Power BI Project 
